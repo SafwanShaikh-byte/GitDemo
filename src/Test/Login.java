@@ -30,6 +30,10 @@ public class Login {
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		System.out.println("Browser opened");
+		System.out.println("Browser opened1");
+		System.out.println("Browser opened2");
+		System.out.println("Browser opened3");
+		
 		
 		driver.get("https://ultimateqa.com/automation");
 		
