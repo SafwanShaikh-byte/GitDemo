@@ -33,7 +33,9 @@ public class Login {
 		System.out.println("Browser opened1");
 		System.out.println("Browser opened2");
 		System.out.println("Browser opened3");
-		
+		System.out.println("Browser opened4");
+		System.out.println("Browser opened5");
+		System.out.println("Browser opened6");
 		
 		driver.get("https://ultimateqa.com/automation");
 		
